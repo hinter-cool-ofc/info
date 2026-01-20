@@ -1,7 +1,7 @@
 <div id="header" align="center">
 <img src="https://files.catbox.moe/wd76lw.jpg" width="900"/>
 
-  <img src="https://files.catbox.moe/7x7nke.png" width="500"/>
+  <img src="https://files.catbox.moe/emdii6.png" width="900"/>
 
   [pronouns,](https://en.pronouns.page/@lpkoko)
  </a>

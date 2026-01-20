@@ -11,4 +11,5 @@
  </a>
 <img src="https://files.catbox.moe/ahhqdq.png" width="200"/>
 
-still wip!
+<img src="https://files.catbox.moe/66hfcu.png" width="900"/>
+
